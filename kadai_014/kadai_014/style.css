@@ -1,0 +1,31 @@
+html {
+  font-size: 20px;
+  text-align: center;
+  
+
+}
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  color: skybule;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 2px 3px #c1bbbbe7;
+}
+
+div > p {
+    font-weight: bold;
+  }
+
+
+  .heading1 {
+    color: rgb(255, 192, 203);
+  }
+  .heading2 {
+    color: skyblue;
+     }
+.heading1,heading2,p{
+  font-family: "Arial", "Meiryo", sans-serif;
+}  
