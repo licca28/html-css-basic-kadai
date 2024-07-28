@@ -1,27 +1,35 @@
-body{
-  font-family: "Arial", "Meiryo", sans-serif;
+html{
   font-size: 20px;
   text-align: center;
 }
 
 h1{
-  font-family: "Josefin Sans",san-serif;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
   color: skybule;
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 1px 2px 3px #c1bbbbe7;
 }
 div{
+  font-family: "Arial", "Meiryo", sans-serif;
   p{
     font-weight: bold;
   }
 }
 
 .heading1{
-  font-family: rem;
+  font-family: "Arial", "Meiryo", sans-serif;
   color:rgb(255, 192, 203); 
+  font-family: "Arial", "Meiryo", sans-serif;
 }
 
 .heading2{
 color:skyblue;
+font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.p{
+  font-family: "Arial", "Meiryo", sans-serif;
 }
